@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 
-public class ExcelFileReader {
+public class TextFileReader {
 
 	public static void main(String[] args) throws FileNotFoundException {
 		// TODO Auto-generated method stub
